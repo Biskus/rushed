@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karaktergivende", "Karaktergivende\Karaktergivende\Karaktergivende.csproj", "{64BAB36A-3B49-441D-81D7-77569BD4ED7A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KaraktergivendeContent", "Karaktergivende\KaraktergivendeContent\KaraktergivendeContent.contentproj", "{7D92B226-F024-4AE2-80AC-C6611960A891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BAB36A-3B49-441D-81D7-77569BD4ED7A}.Debug|x86.ActiveCfg = Debug|x86
+		{64BAB36A-3B49-441D-81D7-77569BD4ED7A}.Debug|x86.Build.0 = Debug|x86
+		{64BAB36A-3B49-441D-81D7-77569BD4ED7A}.Release|x86.ActiveCfg = Release|x86
+		{64BAB36A-3B49-441D-81D7-77569BD4ED7A}.Release|x86.Build.0 = Release|x86
+		{7D92B226-F024-4AE2-80AC-C6611960A891}.Debug|x86.ActiveCfg = Debug|x86
+		{7D92B226-F024-4AE2-80AC-C6611960A891}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
