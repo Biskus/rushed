@@ -1,3 +1,4 @@
 E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\KaraktergivendeContent\obj\x86\Debug\KaraktergivendeContent.contentprojResolveAssemblyReference.cache
 C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\KaraktergivendeContent\obj\x86\Debug\KaraktergivendeContent.contentprojResolveAssemblyReference.cache
 C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\KaraktergivendeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\KaraktergivendeContent\obj\x86\Debug\KaraktergivendeContent.contentprojResolveAssemblyReference.cache

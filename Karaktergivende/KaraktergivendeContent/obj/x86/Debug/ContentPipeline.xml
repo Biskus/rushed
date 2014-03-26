@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_bk.xnb</Output>
-      <Time>2013-12-01T00:40:42+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_bk.xnb</Output>
+      <Time>2014-03-18T22:08:38.811478+01:00</Time>
     </Item>
     <Item>
       <Source>miramar_dn.tga</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_dn.xnb</Output>
-      <Time>2013-12-01T00:40:42+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_dn.xnb</Output>
+      <Time>2014-03-18T22:08:38.8204785+01:00</Time>
     </Item>
     <Item>
       <Source>miramar_ft.tga</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_ft.xnb</Output>
-      <Time>2013-12-01T00:40:42+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_ft.xnb</Output>
+      <Time>2014-03-18T22:08:38.8424798+01:00</Time>
     </Item>
     <Item>
       <Source>miramar_lf.tga</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_lf.xnb</Output>
-      <Time>2013-12-01T00:40:42+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_lf.xnb</Output>
+      <Time>2014-03-18T22:08:38.8624809+01:00</Time>
     </Item>
     <Item>
       <Source>miramar_rt.tga</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_rt.xnb</Output>
-      <Time>2013-12-01T00:40:42+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_rt.xnb</Output>
+      <Time>2014-03-18T22:08:38.8844822+01:00</Time>
     </Item>
     <Item>
       <Source>miramar_up.tga</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_up.xnb</Output>
-      <Time>2013-12-01T00:40:42+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_up.xnb</Output>
+      <Time>2014-03-18T22:08:38.9004831+01:00</Time>
     </Item>
     <Item>
       <Source>ground_stone.jpg</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\ground_stone.xnb</Output>
-      <Time>2013-12-01T01:33:10+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\ground_stone.xnb</Output>
+      <Time>2014-03-18T22:08:38.7894767+01:00</Time>
     </Item>
     <Item>
       <Source>bilterreng.jpg</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\bilterreng.xnb</Output>
-      <Time>2013-12-01T13:22:18+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\bilterreng.xnb</Output>
+      <Time>2014-03-18T22:08:38.7394739+01:00</Time>
     </Item>
     <Item>
       <Source>reklame.jpg</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\reklame.xnb</Output>
-      <Time>2013-12-01T20:47:00+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\reklame.xnb</Output>
+      <Time>2014-03-18T22:08:38.933485+01:00</Time>
     </Item>
     <Item>
       <Source>Arial.spritefont</Source>
@@ -88,8 +88,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\Arial.xnb</Output>
-      <Time>2013-12-03T23:00:30+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2014-03-18T22:08:38.7374737+01:00</Time>
     </Item>
     <Item>
       <Source>terraineffect.fx</Source>
@@ -97,8 +97,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\terraineffect.xnb</Output>
-      <Time>2013-12-03T22:41:12+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\terraineffect.xnb</Output>
+      <Time>2014-03-18T22:08:38.934485+01:00</Time>
     </Item>
     <Item>
       <Source>buggy.x</Source>
@@ -106,11 +106,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\buggy.xnb</Output>
-      <Time>2013-12-03T18:29:18+01:00</Time>
+      <Output>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\buggy.xnb</Output>
+      <Time>2014-03-18T22:08:38.7874766+01:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\buggy_0.xml</Key>
-        <Value>2014-02-11T22:33:48.005487+01:00</Value>
+        <Value>2014-03-18T22:09:10.8673115+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -118,7 +118,7 @@
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\buggy_0.xml</Output>
-      <Time>2013-12-03T18:29:18+01:00</Time>
+      <Time>2014-03-18T22:08:38.7874766+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -126,39 +126,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\KaraktergivendeContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\KaraktergivendeContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\KaraktergivendeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\KaraktergivendeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
         <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
         <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
         <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
         <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
         <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
         <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-08-23T13:20:25.0576109+02:00</Value>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-23T22:35:12.4081669+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

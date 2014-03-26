@@ -76,3 +76,21 @@ C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergiv
 C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.exe
 C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.pdb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_bk.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_dn.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_ft.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_lf.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_rt.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_up.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\ground_stone.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\bilterreng.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\reklame.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\terraineffect.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\buggy.xnb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Karaktergivende.exe
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\bin\x86\Debug\Karaktergivende.pdb
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.csprojResolveAssemblyReference.cache
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.exe
+C:\Users\Ole Petter\Documents\Visual Studio 2010\Projects\Spillprogrammering\rushed\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.pdb
